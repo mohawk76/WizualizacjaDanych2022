@@ -1,3 +1,6 @@
+# Wczytaj trzy liczby całkowite a, b, c i sprawdź, która z nich jest największa. W zależności od wyniku wyświetl
+# odpowiedni komunikat. Użyj zagnieżdżeń.
+
 def get_number_from_user():
     while True:
         user_input = input()

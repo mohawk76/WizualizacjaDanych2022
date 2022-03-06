@@ -1,3 +1,6 @@
+# Stwórz słownik z ulubionymi grami komputerowymi. Pomyśl, co może być kluczem, a co wartością w takim słowniku.
+# Policz liczbę elementów w słowniku.
+
 game_dictionary = {
     'najlepsza gra rpg': 'Wiedźmin 3',
     'najlepsza gra akcji': 'GTA V',

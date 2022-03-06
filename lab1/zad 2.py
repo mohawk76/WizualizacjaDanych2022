@@ -1,3 +1,5 @@
+# Stwórz skrypt kalkulator, w którym wykorzystasz wszystkie podstawowe działania arytmetyczne
+
 operations = {
     '+': lambda a, b: a + b,
     '-': lambda a, b: a - b,
@@ -36,4 +38,5 @@ def calculator():
 
 
 while True:
-    if calculator(): break
+    if calculator():
+        break

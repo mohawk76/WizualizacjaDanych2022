@@ -1,3 +1,6 @@
+# Napisz skrypt gdzie pobierasz trzy liczby całkowite, gdzie wykonasz obliczenia a^b + c.
+# Użyj instrukcji readline i write
+
 import sys
 
 

@@ -1,3 +1,6 @@
+# Napisz skrypt, który liczy pierwiastek z liczby podanej przez użytkownika, jeśli użytkownik poda wartość ujemną
+# to powinien zostać wyłapany błąd
+
 import math
 
 

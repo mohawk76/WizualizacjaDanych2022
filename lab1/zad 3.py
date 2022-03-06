@@ -1,3 +1,5 @@
+# Napisz skrypt, w którym stworzysz operatory przyrostkowe dla operacji: +, -, *, /, **, %
+
 a = 2.0
 print("Stan początkowy: a = %.2f" % a)
 a += 2

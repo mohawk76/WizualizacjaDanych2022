@@ -1,3 +1,6 @@
+# Stwórz słownik skrótów powszechnie używanych w gazetach lub artykułach internetowych.
+# Jako klucz przyjmij skrót danego słowa, wartość to rozwinięcie skrótu.
+
 abbreviations = {
     'itd': 'i tak dalej',
     'itp': 'i tym podobne',

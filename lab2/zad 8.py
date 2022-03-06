@@ -1,3 +1,5 @@
+# Napisz skrypt, który za pomocą pętli while pobiera 10 liczb, następnie dodaje do listy tylko parzyste liczby.
+
 def get_number_from_user():
     while True:
         user_input = input()

@@ -1,3 +1,9 @@
+# Napisz skrypt, który policzy następujące wyrażenia:
+# e^10
+# (ln(5+sin(8)^2))^(1/6)
+# ⌊3.55⌋
+# ⌈4.80⌉
+
 import math
 
 print(math.e ** 10)
